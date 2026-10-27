@@ -32,6 +32,5 @@ Two habits worth stating up front. A claim never sits above the artifact that su
 search for controls that stopped working is a legitimate engineering activity: it has found a firewall
 flag that filtered nothing and a firewall component that was running with zero tables programmed.
 
-**Hub**: <https://sternnick.github.io/sterniotis-hub/> (the one-page front door; it becomes
-<https://sterniotis.com/> once that address is wired up)  |  **Contact**: nick@sterniotis.com |
+**Hub**: <https://sterniotis.com/>  |  **Contact**: nick@sterniotis.com |
 <https://www.linkedin.com/in/nsterniotis>
