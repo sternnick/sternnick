@@ -25,11 +25,13 @@ What I work on day to day:
 | [mcp-gateway](https://github.com/sternnick/mcp-gateway) | Documentation mirror of an MCP tool gateway: 53 tools behind one authenticated endpoint, with published latency and guardrail measurements |
 | [Ariadne](https://github.com/sternnick/Ariadne) | Dependency-free CV/ATS parser research: deterministic parsing, typed failure codes, and a source register where every claim carries a grade |
 
-**Portfolio site**: <https://sternnick.github.io/portfolio/> - every claim there carries an evidence
+**Portfolio site**: <https://portfolio.sterniotis.com/> - every claim there carries an evidence
 tier (document, code, lab, or proposed), and withdrawn claims are named rather than quietly deleted.
 
 Two habits worth stating up front. A claim never sits above the artifact that supports it, and the
 search for controls that stopped working is a legitimate engineering activity: it has found a firewall
 flag that filtered nothing and a firewall component that was running with zero tables programmed.
 
-**Contact**: nick@sterniotis.com | <https://www.linkedin.com/in/nsterniotis>
+**Hub**: <https://sternnick.github.io/sterniotis-hub/> (the one-page front door; it becomes
+<https://sterniotis.com/> once that address is wired up)  |  **Contact**: nick@sterniotis.com |
+<https://www.linkedin.com/in/nsterniotis>
