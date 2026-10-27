@@ -1,6 +1,6 @@
 # Nick Sterniotis
 
-**Cloud & Virtualization Infrastructure Engineer | 20+ years in IT**
+**Cloud & Virtualization Infrastructure Engineer | 20+ years in IT, the last 14 in roles titled infrastructure or operations engineering**
 
 Cork, Ireland - remote, any timezone. Full-time incident owner on a 24/7 production service, and the
 person a platform team calls when something is quietly broken and nobody can say why.
@@ -16,6 +16,9 @@ What I work on day to day:
 - **Reliability practice**: incident ownership with blameless root-cause analysis, runbooks, and
   observability with alert rules small enough that every one has a named recipient and an action
 - **Cloud**: AWS (Solutions Architect - Professional, 2024-2027) and hybrid connectivity
+- **Self-directed, outside working hours**: AI infrastructure. Local model serving, an MCP tool bridge
+  with per-principal access control, RAG and agent orchestration. It is my own engineering, not a
+  deliverable for any employer, and the two repositories below are where you can read it
 
 ## What is here
 
@@ -32,5 +35,6 @@ Two habits worth stating up front. A claim never sits above the artifact that su
 search for controls that stopped working is a legitimate engineering activity: it has found a firewall
 flag that filtered nothing and a firewall component that was running with zero tables programmed.
 
-**Hub**: <https://sterniotis.com/>  |  **Contact**: nick@sterniotis.com |
-<https://www.linkedin.com/in/nsterniotis>
+**Hub**: <https://sterniotis.com/>  |  **CV**:
+[Master CV, PDF](https://sterniotis.com/cv/Nick_Sterniotis_Master_CV.pdf)  |  **Contact**:
+nick@sterniotis.com | <https://www.linkedin.com/in/nsterniotis>
